@@ -9,7 +9,7 @@
   "devDependencies": {
     "@rollup/plugin-commonjs": "^28.0.2",
     "@rollup/plugin-node-resolve": "^16.0.0",
-    "rollup": "^4.34.0",
+    "rollup": "^4.34.6",
     "rollup-plugin-peer-deps-external": "^2.2.4"
   },
   "peerDependencies": {
