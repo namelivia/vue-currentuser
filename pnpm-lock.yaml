@@ -19,7 +19,7 @@ importers:
         specifier: ^16.0.1
         version: 16.0.1(rollup@4.39.0)
       rollup:
-        specifier: ^4.38.0
+        specifier: ^4.39.0
         version: 4.39.0
       rollup-plugin-peer-deps-external:
         specifier: ^2.2.4
