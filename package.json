@@ -1,6 +1,6 @@
 {
   "name": "@namelivia/vue-currentuser",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
   "scripts": {
@@ -13,6 +13,6 @@
     "rollup-plugin-peer-deps-external": "^2.2.4"
   },
   "peerDependencies": {
-    "axios": "^0.25.0"
+    "axios": "^1.6.8"
   }
 }
