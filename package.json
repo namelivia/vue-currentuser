@@ -1,9 +1,11 @@
 {
   "name": "@namelivia/vue-currentuser",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "type": "module",
+  "main": "dist/index.js",
+  "module": "dist/index.esm.js",
   "scripts": {
-    "build": "rollup -c"
+    "build": "rollup -c --bundleConfigAsCjs"
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^28.0.3",
